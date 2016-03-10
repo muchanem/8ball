@@ -1,0 +1,4 @@
+
+export GOPATH=~/repos/8ball/go
+echo "Source me dont run me"
+export PATH=~/repos/8ball/go/bin:$PATH
